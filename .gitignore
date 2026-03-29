@@ -1,0 +1,13 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# Persisted OAuth 2.0 refresh token (contains secrets)
+.refresh_token
+
+# User secrets are stored outside the repo — never commit them
+# %APPDATA%\Microsoft\UserSecrets\<UserSecretsId>\secrets.json
