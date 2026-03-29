@@ -63,7 +63,7 @@ From your app's **Keys and tokens** tab, collect the following:
 ### 2.2 Clone and restore
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/SmartQPtyLtd/TwitterBot
 cd TwitterBot
 dotnet restore
 ```
